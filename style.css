@@ -48,3 +48,4 @@ footer a:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
 @media (max-width: 520px) {
   footer { right: 14px; bottom: 12px; font-size: 0.6rem; }
 }
+.pm-loc{white-space:nowrap}.pm-mark{display:inline-block;width:1.15em;height:1.15em;vertical-align:-.2em;margin:0 .15em}
